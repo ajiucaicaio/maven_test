@@ -7,6 +7,8 @@ package com.atguigu.maven;
 public class Hello {
     public String sayHello(String name){
         System.out.println("good");
+        System.out.println("good");
+        System.out.println("good");
         return "Hello "+name+"!";
     }
 }
